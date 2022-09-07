@@ -49,3 +49,31 @@ Jessore Rd, Dum Dum, Kolkata, West Bengal 700052, India
 > No pressure, no diamonds. *Thomas Carlyle*
 
 > We can do anything we want to if we stick to it long enough. *Helen Keller*
+
+---------------------------------------------------------------------
+
+## Sass
+
+` import style.scss inside index.module.scss in react` 
+[Importing sass styles](https://stackoverflow.com/questions/tagged/sass)
+
+```
+    import React from 'react';
+    import ReactDOM from 'react-dom/client';
+    import styles from'./styles.module.scss';
+
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(
+      <React.StrictMode>
+        <div className={styles.color}>test
+<div className='bg'>inside</div>
+</div>
+      </React.StrictMode>
+    );
+
+```
+
+[Source Link](https://stackoverflow.com/questions/73626778/import-style-scss-inside-index-module-scss-in-react)
+
+
+
