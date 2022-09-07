@@ -16,3 +16,13 @@ Some of the must watch things are **Mughal Paintings** and **collections of anti
 9. Continue onto Bangaon - Kulpi Rd/Kazi Nazrul Islam Ave/Thakurnagar - Panchpota Rd/VIP Rd
 10. Netaji Subhash Chandra Bose International Airport
 Jessore Rd, Dum Dum, Kolkata, West Bengal 700052, India 
+
+#### Visiting places near to museum
+
+* Taj Mahal
+* Amber Palace
+* Rathambore National park
+* Red Fort
+* Hawa Mahal
+* Jama Masjid
+* Qutab Minar
