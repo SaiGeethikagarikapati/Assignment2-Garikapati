@@ -29,3 +29,15 @@ Jessore Rd, Dum Dum, Kolkata, West Bengal 700052, India
 
 [ABOUT ME](./AboutMe.md)
 
+=====================================================================================
+ 
+## Incredible India
+
+<p> Incredible India is the name of an international tourism campaign maintained by the Government of India. </p>
+
+| CITY        | PLACE                      | TIME TO SPEND |
+|-------------|----------------------------|---------------|
+| Delhi       | RED FORT                   | 2 Hr          |
+| Munnar      | Tea Museum                 | 1 Hr          |
+| Kanyakumari | Vivekanadha Rock Memorial  | 1.5 Hr        |
+| Agra        | Taj Mahal                  | 3 Hr          |
