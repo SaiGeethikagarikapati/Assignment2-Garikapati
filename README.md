@@ -29,7 +29,7 @@ Jessore Rd, Dum Dum, Kolkata, West Bengal 700052, India
 
 [ABOUT ME](./AboutMe.md)
 
-=====================================================================================
+==================================================================
  
 ## Incredible India
 
@@ -41,3 +41,11 @@ Jessore Rd, Dum Dum, Kolkata, West Bengal 700052, India
 | Munnar      | Tea Museum                 | 1 Hr          |
 | Kanyakumari | Vivekanadha Rock Memorial  | 1.5 Hr        |
 | Agra        | Taj Mahal                  | 3 Hr          |
+
+-----------------------------------------------------------------------
+
+## Pithy Quotes
+
+> No pressure, no diamonds. *Thomas Carlyle*
+
+> We can do anything we want to if we stick to it long enough. *Helen Keller*
